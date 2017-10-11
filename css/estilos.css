@@ -200,3 +200,30 @@ header .nav {
     .formulario .boton:hover {
         background: #EF1ABB;
     }
+
+    /* Redes Sociales */
+    .redes-sociales {
+        padding: 40px 0;
+        margin-bottom: 40px;
+    }
+
+    .redes-sociales .fa {
+        width: 100px;
+        height: 100px;
+        font-size: 40px;
+        line-height: 100px;
+        color: #fff;
+        text-align: center;
+        background: #cbcbcb;
+        display: inline-block;
+        margin: 0px 20px;
+        text-decoration: none;
+        border-radius: 100px;
+        transition: all .3s ease;
+    }
+
+    .redes-sociales .twitter { background: #3fc5a6}
+    .redes-sociales .facebook { background: #545454}
+    .redes-sociales .instagram { background: #DC730D}
+    .redes-sociales .pinteres { background: #7C0B0D}
+    .redes-sociales .google-plus { background: #EF1ABB}
